@@ -12,9 +12,9 @@ function Home() {
                     I'm a Front-End Web Developer and Web Scrapper
                 </h2>
                 <p className=' text-gray-500 py-4 max-w-md'>
-                    I have 8 years of experience in coding and designing software.
+                    I have 5 years of experience in coding and designing websites.
                     Curently, I love to work on web applications using technology like
-                    React, Tailwind, Next JS and GraphSQL
+                    React, Tailwind, Python and Wordpress
                 </p>
                 <div>
                     <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center

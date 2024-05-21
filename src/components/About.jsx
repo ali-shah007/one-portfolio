@@ -8,9 +8,16 @@ function About() {
                 <p className=' text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
 
             </div>
-            <p className=' text-xl mt-20'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam veritatis consectetur non officiis impedit numquam soluta dignissimos asperiores distinctio, dolores neque, error aperiam quo ducimus delectus! Deleniti delectus at quo eveniet fuga voluptatibus vero quaerat unde laborum dolore? Accusamus beatae nobis id labore minus perspiciatis asperiores, animi earum sint aliquam?</p>
+            <p className=' text-xl mt-20'>Welcome to my portfolio! I'm a front-end web developer specializing in HTML, CSS, JavaScript, and React. With a keen eye for design and functionality, I craft engaging and responsive web experiences that captivate users.</p>
             <br/>
-            <p className='text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia itaque mollitia aspernatur hic assumenda accusantium porro blanditiis distinctio sequi. Deserunt ad quo expedita voluptate enim, a velit pariatur quos? Vel mollitia veritatis sunt distinctio, suscipit obcaecati perferendis. Dolores praesentium illo perferendis dolore, facilis cumque? Vel nisi perspiciatis ratione dolorum autem!</p>
+            <p className='text-xl'>In addition to my expertise in front-end development, I'm proficient in Python and utilize it for various tasks, including web scraping. Leveraging Python, I generate leads for businesses by extracting valuable data from the web. Whether it's aiding in product listing or providing support for web projects, I'm committed to delivering high-quality solutions tailored to meet your needs.</p>
+            <br/>
+            <p className='text-xl'>Furthermore, I'm experienced in working with WordPress sites, offering comprehensive support and development services to ensure your online presence is both efficient and visually striking.
+            <br/><br/>
+</p>
+            <p className='text-2xl'>
+            Let's collaborate to bring your digital vision to life!
+            </p>
         </div>
     </div>
   )
