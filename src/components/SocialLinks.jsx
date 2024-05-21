@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaGithub, FaInstagram } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 
@@ -9,10 +9,10 @@ function SocialLinks() {
             id: 1,
             child: (
                 <>
-                LinkedIn <FaLinkedin size={30}/>
+                LinkedIn <FaInstagram size={30}/>
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://instagram.com/syed_ali_70',
             style: 'rounded-tr-md'
         },
         {
@@ -22,7 +22,7 @@ function SocialLinks() {
                 GitHub <FaGithub size={30}/>
                 </>
             ),
-            href: 'https://github.com',
+            href: 'https://github.com/ali-shah007',
         },
         {
             id: 3,
