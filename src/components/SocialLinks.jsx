@@ -9,7 +9,7 @@ function SocialLinks() {
             id: 1,
             child: (
                 <>
-                LinkedIn <FaInstagram size={30}/>
+                Instagram <FaInstagram size={30}/>
                 </>
             ),
             href: 'https://instagram.com/syed_ali_70',
