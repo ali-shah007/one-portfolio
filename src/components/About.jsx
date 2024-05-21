@@ -13,11 +13,9 @@ function About() {
             <p className='text-xl'>In addition to my expertise in front-end development, I'm proficient in Python and utilize it for various tasks, including web scraping. Leveraging Python, I generate leads for businesses by extracting valuable data from the web. Whether it's aiding in product listing or providing support for web projects, I'm committed to delivering high-quality solutions tailored to meet your needs.</p>
             <br/>
             <p className='text-xl'>Furthermore, I'm experienced in working with WordPress sites, offering comprehensive support and development services to ensure your online presence is both efficient and visually striking.
-            <br/><br/>
+            
 </p>
-            <p className='text-2xl'>
-            Let's collaborate to bring your digital vision to life!
-            </p>
+            
         </div>
     </div>
   )
