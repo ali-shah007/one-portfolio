@@ -6,6 +6,7 @@ import reactImage from '../assets/react.png'
 import nextjs from '../assets/nextjs.png'
 import github from '../assets/github.png'
 import tailwind from '../assets/tailwind.png'
+import python from '../assets/python.png'
 
 function Experience() {
     const tech = [
@@ -34,17 +35,18 @@ function Experience() {
             style: 'shadow-blue-500'
         },
         {
-            id:5,
-            src: nextjs,
-            title: 'Next JS',
-            style: 'shadow-white'
-        },
-        {
             id:6,
             src: tailwind,
             title: 'Tailwind CSS',
             style: 'shadow-sky-400'
         },
+        {
+            id:5,
+            src: python,
+            title: 'Python',
+            style: 'shadow-yellow-300'
+        },
+        
         {
             id:7,
             src: github,
@@ -55,7 +57,7 @@ function Experience() {
     ]
   return (
     <div name="experience" className=' bg-gradient-to-b from-black to-gray-800 w-full h-screen'>
-        <div className=' max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
+        <div className=' max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white lg:px-20'>
             <div>
                 <p className=' text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>Experience</p>
                 <p className=' py-6'>These are the technologies I'hv worked with</p>
