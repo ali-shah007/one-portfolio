@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import LoadScreen from './LoadScreen'; // Correct import
+import LoadScreen from '../screens/LoadScreen'; // Correct import
 import HomeScreen from '../screens/HomeScreen'; // Assuming this is your main component
 
 
